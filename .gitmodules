@@ -1,0 +1,3 @@
+[submodule "openlca-python-tutorial"]
+	path = openlca-python-tutorial
+	url = https://github.com/GreenDelta/openlca-python-tutorial.git
