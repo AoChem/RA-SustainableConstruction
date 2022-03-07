@@ -1,0 +1,5 @@
+GWP100a,InputFlow,Amount,InitialValue,ProcessLocation,ProcessName
+0.0934990125580303,"market group for electricity, low voltage | electricity, low voltage | Cutoff, URAF",1.694138287473385e-05,3.38827657494677e-05,RoW,"heat production, heavy fuel oil, at industrial furnace 1MW | heat, district or industrial, other than natural gas | Cutoff, U"
+0.09350172975417995,"market group for electricity, low voltage | electricity, low voltage | Cutoff, URAF",2.0329659449680617e-05,3.38827657494677e-05,RoW,"heat production, heavy fuel oil, at industrial furnace 1MW | heat, district or industrial, other than natural gas | Cutoff, U"
+0.09351247386072713,"market for electricity, low voltage | electricity, low voltage | Cutoff, UNZ",1.045627206217755e-06,2.09125441243551e-06,RoW,"heat production, heavy fuel oil, at industrial furnace 1MW | heat, district or industrial, other than natural gas | Cutoff, U"
+0.093512498764777,"market for electricity, low voltage | electricity, low voltage | Cutoff, UNZ",1.254752647461306e-06,2.09125441243551e-06,RoW,"heat production, heavy fuel oil, at industrial furnace 1MW | heat, district or industrial, other than natural gas | Cutoff, U"
