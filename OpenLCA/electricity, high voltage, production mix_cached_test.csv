@@ -1,0 +1,6 @@
+Process name: ,"electricity, high voltage, production mix | electricity, high voltage | Cutoff, U | AE"
+InputFlow,GWP100a,Relative change
+"electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW",0.5043710849000481,0.5
+"electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW",0.5043752379491272,0.55
+"electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW",0.5044125168671804,0.5
+"electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW",0.5044125267195458,0.55

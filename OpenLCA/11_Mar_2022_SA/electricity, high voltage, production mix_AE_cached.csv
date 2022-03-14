@@ -1,0 +1,107 @@
+Process name: ;electricity, high voltage, production mix | electricity, high voltage | Cutoff, U | AE
+InputFlow;GWP100a;Relative change
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3359680181057003;0.5
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3362911887280553;0.55
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.33661435935040945;0.6000000000000001
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.33693752997276377;0.6500000000000001
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.33726070059511876;0.7000000000000002
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3375838712174739;0.7500000000000002
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.33790704183982795;0.8000000000000003
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.33823021246218293;0.8500000000000003
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.33855338308453775;0.9000000000000002
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3388765537068921;0.9500000000000004
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3391997243292468;1.0000000000000004
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.33952289495160104;1.0500000000000005
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.33984606557395564;1.1000000000000005
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3401692361963114;1.1500000000000006
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3404924068186645;1.2000000000000006
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.34081557744102037;1.2500000000000007
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3411387480633755;1.3000000000000007
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3414619186857298;1.3500000000000008
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3417850893080842;1.4000000000000008
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3421082599304388;1.4500000000000008
+electricity production, oil | electricity, high voltage | Cutoff, URoW;0.3424314305527935;1.5000000000000009
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3333606699757069;0.5
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3339445754110612;0.55
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.33452848084641473;0.6000000000000001
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.335112386281769;0.6500000000000001
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3356962917171229;0.7000000000000002
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.33628019715247726;0.7500000000000002
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.33686410258783084;0.8000000000000003
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3374480080231853;0.8500000000000003
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.33803191345853856;0.9000000000000004
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3386158188938929;0.9500000000000004
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3391997243292467;1.0000000000000004
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3397836297646011;1.0500000000000005
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.34036753519995483;1.1000000000000005
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.34095144063530936;1.1500000000000006
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.34153534607066305;1.2000000000000006
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.342119251506017;1.2500000000000007
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.34270315694137116;1.3000000000000007
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3432870623767246;1.3500000000000008
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3438709678120786;1.4000000000000008
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.3444548732474332;1.450000000000001
+electricity production, solar thermal parabolic trough, 50 MW | electricity, high voltage | Cutoff, URoW;0.34503877868278743;1.5000000000000009
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.30085925233487537;0.5
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3046932995343122;0.55
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3085273467337486;0.6000000000000001
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3123613939331858;0.6500000000000001
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.31619544113262393;0.7000000000000002
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3200294883320611;0.7500000000000002
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3238635355314983;0.8000000000000003
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3276975827309355;0.8500000000000003
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3315316299303733;0.9000000000000004
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.33536567712980997;0.9500000000000004
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3391997243292468;1.0000000000000004
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.34303377152868386;1.0500000000000005
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3468678187281216;1.1000000000000005
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3507018659275583;1.1500000000000006
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3545359131269953;1.2000000000000006
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3583699603264331;1.2500000000000007
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.36220400752587034;1.3000000000000007
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.36603805472530776;1.3500000000000008
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.3698721019247449;1.4000000000000008
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.373706149124182;1.4500000000000008
+electricity production, natural gas, conventional power plant | electricity, high voltage | Cutoff, URoW;0.377540196323619;1.5000000000000009
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.21701114401048932;0.5
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.22923000204236452;0.55
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.24144886007424077;0.6000000000000001
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.2536677181061167;0.6500000000000001
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.26588657613799244;0.7000000000000002
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.27810543416986805;0.7500000000000002
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.29032429220174466;0.8000000000000003
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.30254315023361994;0.8500000000000003
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.31476200826549533;0.9000000000000004
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.32698086629737116;0.9500000000000005
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.33919972432924683;1.0000000000000004
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.35141858236112355;1.0500000000000005
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.36363744039299856;1.1000000000000005
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.3758562984248743;1.1500000000000006
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.38807515645674967;1.2000000000000006
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.4002940144886267;1.2500000000000007
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.41251287252050256;1.3000000000000007
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.42473173055237756;1.3500000000000008
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.4369505885842534;1.4000000000000008
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.44916944661612934;1.4500000000000008
+electricity production, natural gas, combined cycle power plant | electricity, high voltage | Cutoff, URoW;0.4613883046480053;1.5000000000000009
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919967505483883;0.5
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919967998227984;0.55
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919968490972136;0.6000000000000001
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919968983716237;0.6500000000000001
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919969476460254;0.7000000000000002
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391996996920431;0.7500000000000003
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997046194839;0.8000000000000002
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997095469251;0.8500000000000003
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997144743659;0.9000000000000004
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997194018066;0.9500000000000004
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997243292467;1.0000000000000004
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919972925668784;1.0500000000000005
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997341841281;1.1000000000000005
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.339199739111569;1.1500000000000006
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997440390095;1.2000000000000006
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997489664511;1.2500000000000007
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919975389389195;1.3000000000000007
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919975882133224;1.3500000000000008
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.33919976374877364;1.4000000000000008
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997686762133;1.4500000000000008
+electricity production, wind, <1MW turbine, onshore | electricity, high voltage | Cutoff, URoW;0.3391997736036544;1.5000000000000009
